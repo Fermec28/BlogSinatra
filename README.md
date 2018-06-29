@@ -8,11 +8,6 @@ Vamos a tener dos modelos: `Entry` y `Tag`. Un `Entry` puede tener muchos `Tag`s
 
 ## Pasos
 
-
-
-
-Pensando en nuestros controladores podemos asumir que vamos a tener los siguientes 3 archivos.
-
 1. clona este repositorio
 2. cd BlogSinatra
 3. bundle install
